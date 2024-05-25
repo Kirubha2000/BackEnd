@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "RegistrationService.INVALID_PASSWORD",
+  "type": "java.lang.String",
+  "description": "A description for 'RegistrationService.INVALID_PASSWORD'"
+}]}
